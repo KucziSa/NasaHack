@@ -1,10 +1,10 @@
 # NasaHack
 
 ```
-git clone https://github.com/KasRoudra/nasahack
+git clone https://github.com/KucziSa/NasaHack
 ```
 ```
-cd nasahack
+cd NasaHack
 ```
 
 ```
@@ -17,4 +17,4 @@ Or
 bash np.sh
 ```
 
-Follow Instructions! Be a NASA Hacker!
+Don't take this seriously
